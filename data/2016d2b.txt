@@ -1,0 +1,200 @@
+15
+Chartiers Valley
+2
+Montour
+2
+Kiski Area
+15
+Central Catholic
+15
+Linsly
+3
+Trinity
+15
+Gateway
+8
+Woodland Hills
+2
+Peters
+15
+Mars
+3
+Trinity
+15
+Bethel Park
+11
+Plum
+15
+Linsly
+1
+Gateway
+15
+Braddock Hills
+15
+Mars
+1
+Chartiers Valley
+2
+NAJV
+15
+Bethel Park
+3
+Peters
+15
+Bethel Park
+3
+Woodland Hills
+15
+Plum
+6
+Obama
+15
+Central Catholic
+6
+Chartiers Valley
+11
+Trinity
+15
+Braddock Hills
+4
+Woodland Hills
+4
+NAJV
+10
+Mars
+2
+Trinity
+15
+Peters
+2
+Kiski Area
+15
+Plum
+12
+Quaker Valley
+11
+Gateway
+13
+Linsly
+11
+Peters
+15
+Bethel Park
+6
+Plum
+15
+Butler
+1
+Woodland Hills
+15
+Central Catholic
+6
+Obama
+14
+Shady Side Academy
+15
+NAJV
+5
+Chartiers Valley
+15
+Shady Side Academy
+4
+Montour
+15
+Chartiers Valley
+5
+Mars
+15
+Butler
+15
+Bethel Park
+7
+Peters
+15
+Linsly
+0
+Obama
+16
+Woodland Hills
+14
+Quaker Valley
+1
+Trinity
+15
+Braddock Hills
+15
+Mars
+1
+Shady Side Academy
+2
+Woodland Hills
+15
+Braddock Hills
+15
+Mars
+3
+NAJV
+5
+Chartiers Valley
+15
+Quaker Valley
+9
+Shady Side Academy
+13
+Bethel Park
+7
+NAJV
+15
+Butler
+5
+Kiski Area
+15
+Gateway
+15
+Central Catholic
+8
+Linsly
+13
+Bethel Park
+11
+Linsly
+15
+Plum
+3
+Woodland Hills
+10
+Linsly
+14
+Bethel Park
+5
+Shady Side Academy
+11
+Mars
+3
+Trinity
+15
+Central Catholic
+12
+Braddock Hills
+13
+Gateway
+8
+NAJV
+13
+Shady Side Academy
+15
+Chartiers Valley
+10
+Quaker Valley
+15
+Bethel Park
+4
+Quaker Valley
+9
+Peters
+15
+Linsly
+15
+Central Catholic
+4
+Butler

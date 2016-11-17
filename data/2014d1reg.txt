@@ -1,0 +1,160 @@
+16
+North Allegheny
+15
+Allderdice
+3
+Mt. Lebanon
+15
+Hampton
+14
+Fox Chapel
+15
+Mt. Lebanon
+15
+Franklin Regional
+2
+Mt. Lebanon
+15
+Franklin Regional
+3
+Upper St. Clair
+15
+Allderdice
+5
+Upper St. Clair
+12
+Fox Chapel
+15
+North Allegheny
+10
+Upper St. Clair
+13
+Mt. Lebanon
+15
+Hampton
+7
+Franklin Regional
+15
+North Allegheny
+13
+Pine Richland
+5
+Upper St. Clair
+15
+Fox Chapel
+14
+North Allegheny
+16
+Hampton
+1
+Upper St. Clair
+15
+Allderdice
+16
+Fox Chapel
+14
+Pine Richland
+5
+Pine Richland
+15
+North Allegheny
+8
+Pine Richland
+15
+Franklin Regional
+9
+Fox Chapel
+15
+Allderdice
+13
+Upper St. Clair
+15
+North Allegheny
+15
+Allderdice
+13
+Franklin Regional
+11
+Pine Richland
+15
+Hampton
+15
+North Allegheny
+10
+Mt. Lebanon
+13
+Fox Chapel
+15
+Hampton
+5
+North Allegheny
+15
+Franklin Regional
+15
+Pine Richland
+6
+Fox Chapel
+2
+Mt. Lebanon
+15
+Franklin Regional
+15
+Franklin Regional
+9
+Fox Chapel
+15
+Hampton
+6
+North Allegheny
+5
+Mt. Lebanon
+15
+Allderdice
+15
+Franklin Regional
+11
+Allderdice
+11
+Mt. Lebanon
+15
+Upper St. Clair
+15
+Allderdice
+13
+Pine Richland
+15
+Allderdice
+12
+Hampton
+7
+Upper St. Clair
+15
+Franklin Regional
+15
+Hampton
+11
+Pine Richland
+7
+North Allegheny
+15
+Fox Chapel
+15
+Hampton
+3
+Upper St. Clair
+15
+Mt. Lebanon
+12
+Pine Richland
+15
+Hampton
+3
+Fox Chapel
+15
+Pine Richland
+6
+Upper St. Clair
+15
+Allderdice
+5
+Mt. Lebanon

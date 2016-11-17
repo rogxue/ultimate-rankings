@@ -1,0 +1,200 @@
+10
+Upper St. Clair
+15
+Mt. Lebanon
+14
+Fox Chapel
+4
+North Allegheny
+15
+North Allegheny
+7
+Allderdice
+10
+Fox Chapel
+11
+Franklin Regional
+6
+Upper St. Clair
+1
+Obama Academy
+10
+Allderdice
+11
+Upper St. Clair
+11
+Oakland Catholic
+15
+Mars
+7
+Mars
+15
+Pine Richland
+4
+Obama Academy
+15
+Fox Chapel
+15
+North Allegheny
+5
+Pine Richland
+15
+Oakland Catholic
+0
+Obama Academy
+3
+Shady Side Academy
+15
+Upper St. Clair
+10
+Mars
+15
+Franklin Regional
+15
+Franklin Regional
+9
+Upper St. Clair
+2
+Mt. Lebanon
+15
+Fox Chapel
+11
+Fox Chapel
+4
+Oakland Catholic
+15
+Pine Richland
+2
+Obama Academy
+8
+Mars
+11
+Allderdice
+15
+Fox Chapel
+1
+Shady Side Academy
+15
+North Allegheny
+5
+Mars
+12
+Obama Academy
+7
+Mt. Lebanon
+5
+Upper St. Clair
+15
+Oakland Catholic
+3
+Shady Side Academy
+15
+Mars
+7
+Upper St. Clair
+15
+Pine Richland
+6
+Oakland Catholic
+15
+Franklin Regional
+15
+Franklin Regional
+3
+Shady Side Academy
+6
+Pine Richland
+10
+Fox Chapel
+15
+Mt. Lebanon
+12
+Allderdice
+7
+Pine Richland
+15
+Franklin Regional
+4
+Shady Side Academy
+13
+Obama Academy
+9
+North Allegheny
+15
+Mt. Lebanon
+1
+Shady Side Academy
+15
+North Allegheny
+15
+Allderdice
+0
+Shady Side Academy
+2
+Mars
+15
+Fox Chapel
+15
+Oakland Catholic
+10
+Mt. Lebanon
+3
+Obama Academy
+15
+Allderdice
+15
+Mt. Lebanon
+5
+Pine Richland
+15
+Franklin Regional
+7
+North Allegheny
+15
+Allderdice
+12
+Oakland Catholic
+15
+Pine Richland
+6
+Shady Side Academy
+15
+Oakland Catholic
+2
+Obama Academy
+15
+Upper St. Clair
+6
+Mars
+15
+North Allegheny
+5
+Allderdice
+11
+Franklin Regional
+4
+Upper St. Clair
+15
+Mt. Lebanon
+6
+Pine Richland
+15
+Fox Chapel
+6
+Oakland Catholic
+15
+Fox Chapel
+7
+Mt. Lebanon
+13
+Franklin Regional
+11
+North Allegheny
+5
+Franklin Regional
+15
+Fox Chapel
+15
+Pine Richland
+2
+Shady Side Academy

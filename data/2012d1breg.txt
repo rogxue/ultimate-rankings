@@ -1,0 +1,168 @@
+15
+Fox Chapel
+1
+Allderdice
+15
+Gateway
+8
+Andrew Street
+15
+Franklin Regional
+5
+Woodland Hills
+15
+Gateway
+9
+Franklin Regional
+5
+Allderdice
+15
+Hampton
+15
+Pine-Richland
+5
+Woodland Hills
+7
+Gateway
+15
+Fox Chapel
+4
+Allderdice
+15
+Mt. Lebanon
+15
+Upper St. Clair
+7
+Moon
+1
+Woodland Hills
+15
+Upper St. Clair
+15
+Pine-Richland
+8
+Moon
+12
+Upper St. Clair
+15
+North Allegheny
+7
+Gateway
+15
+Mt. Lebanon
+15
+Fox Chapel
+1
+Woodland Hills
+1
+Andrew Street
+15
+Hampton
+15
+Fox Chapel
+4
+Franklin Regional
+15
+Hampton
+5
+Moon
+7
+Franklin Regional
+15
+Allderdice
+0
+Woodland Hills
+15
+Mt. Lebanon
+15
+Upper St. Clair
+4
+Andrew Street
+15
+Franklin Regional
+5
+Andrew Street
+15
+Mt. Lebanon
+4
+Moon
+9
+Upper St. Clair
+15
+Mt. Lebanon
+7
+Hampton
+15
+Fox Chapel
+11
+Pine-Richland
+15
+North Allegheny
+14
+Allderdice
+7
+Andrew Street
+0
+Moon
+15
+Gateway
+3
+Allderdice
+15
+Pine-Richland
+15
+Fox Chapel
+12
+Upper St. Clair
+6
+Moon
+15
+North Allegheny
+11
+Pine-Richland
+15
+Fox Chapel
+15
+North Allegheny
+17
+Hampton
+5
+Woodland Hills
+15
+Gateway
+8
+Andrew Street
+15
+Pine-Richland
+15
+Mt. Lebanon
+4
+Andrew Street
+4
+Moon
+15
+Franklin Regional
+6
+Gateway
+15
+Hampton
+15
+Mt. Lebanon
+6
+North Allegheny
+15
+Hampton
+9
+Pine-Richland
+15
+North Allegheny
+0
+Woodland Hills
+15
+Upper St. Clair
+4
+Allderdice
+15
+North Allegheny
+11
+Franklin Regional
