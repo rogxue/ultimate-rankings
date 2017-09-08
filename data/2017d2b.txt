@@ -1,0 +1,275 @@
+6
+Quaker Valley
+15
+Seneca Valley
+15
+Gateway
+11
+Woodland Hills
+15
+Linsly
+7
+Trinity
+### Norwin Plum
+2
+Woodland Hills
+10
+Braddock Hills
+### Chartiers Mars
+11
+Norwin
+13
+Obama
+15
+Plum
+0
+Chartiers Valley
+16
+Trinity
+15
+Gateway
+15
+Central Catholic
+2
+Peters Township
+15
+Quaker Valley
+4
+North Allegheny
+15
+Bethel Park
+4
+Linsly
+15
+Plum
+1
+Woodland Hills
+5
+Obama
+15
+Braddock Hills
+7
+Seneca Valley
+15
+Mars
+15
+Bethel Park
+4
+Peters Township
+15
+Woodland Hills
+2
+Norwin
+15
+Central Catholic
+5
+Seneca Valley
+12
+Peters Township
+11
+Chartiers Valley
+3
+Trinity
+11
+Central Catholic
+7
+Gateway
+15
+Plum
+11
+Central Catholic
+9
+Plum
+15
+Linsly
+6
+Obama
+3
+Mars
+15
+Bethel Park
+12
+Obama
+14
+Seneca Valley
+15
+Braddock Hills
+1
+Quaker Valley
+15
+Quaker Valley
+13
+Woodland Hills
+14
+Central Catholic
+12
+Bethel Park
+14
+North Allegheny
+4
+Seneca Valley
+2
+Norwin
+15
+Trinity
+15
+Peters Township
+1
+Norwin
+15
+Mars
+5
+North Allegheny
+3
+Trinity
+15
+Bethel Park
+15
+Central Catholic
+5
+Linsly
+15
+Plum
+2
+Seneca Valley
+15
+Linsly
+2
+Peters Township
+3
+Chartiers Valley
+15
+Bethel Park
+9
+Shady Side Academy
+11
+Gateway
+15
+Braddock Hills
+4
+Gateway
+4
+Chartiers Valley
+15
+Central Catholic
+15
+Shady Side Academy
+8
+Quaker Valley
+9
+Obama
+15
+Mars
+9
+Braddock Hills
+15
+Plum
+13
+Gateway
+9
+North Allegheny
+5
+Trinity
+15
+Shady Side Academy
+12
+Obama
+10
+Trinity
+6
+North Allegheny
+13
+Shady Side Academy
+9
+Mars
+12
+Shady Side Academy
+15
+Braddock Hills
+5
+Peters Township
+11
+Woodland Hills
+12
+Mars
+15
+Quaker Valley
+7
+Obama
+15
+North Allegheny
+2
+Norwin
+7
+Peters Township
+15
+Quaker Valley
+8
+Chartiers Valley
+15
+Linsly
+15
+Bethel Park
+5
+North Allegheny
+13
+Quaker Valley
+15
+Mars
+10
+Woodland Hills
+14
+Linsly
+9
+Shady Side Academy
+3
+Seneca Valley
+14
+North Allegheny
+5
+Peters Township
+13
+Bethel Park
+10
+Central Catholic
+12
+Gateway
+15
+Bethel Park
+9
+Trinity
+6
+Chartiers Valley
+12
+Shady Side Academy
+11
+Central Catholic
+3
+Norwin
+15
+Braddock Hills
+8
+Seneca Valley
+14
+Chartiers Valley
+6
+Norwin
+15
+Gateway
+### Mars Plum
+15
+Shady Side Academy
+8
+Obama
+4
+Peters Township
+9
+Trinity
+8
+Quaker Valley
+15
+Linsly
+7
+Obama
+15
+North Allegheny

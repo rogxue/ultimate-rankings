@@ -1,0 +1,200 @@
+15
+Mars
+14
+Oakland Catholic
+5
+Upper St. Clair
+15
+Fox Chapel
+10
+North Allegheny
+5
+Pine Richland
+6
+Upper St. Clair
+10
+Oakland Catholic
+10
+Pine Richland
+7
+Allderdice
+8
+Fox Chapel
+6
+CAPA
+3
+CAPA
+10
+Oakland Catholic
+15
+Mars
+6
+Pine Richland
+9
+North Allegheny
+8
+Fox Chapel
+7
+Upper St. Clair
+8
+CAPA
+11
+North Allegheny
+2
+Allderdice
+14
+Mars
+7
+Franklin Regional
+13
+Fox Chapel
+3
+Franklin Regional
+8
+Allderdice
+7
+CAPA
+5
+Allderdice
+8
+Upper St. Clair
+12
+Fox Chapel
+6
+Mars
+10
+Oakland Catholic
+6
+Pine Richland
+12
+Franklin Regional
+2
+Shadyside
+8
+Oakland Catholic
+9
+Fox Chapel
+3
+CAPA
+13
+Franklin Regional
+8
+Upper St. Clair
+2
+Shadyside
+8
+Fox Chapel
+0
+Upper St. Clair
+8
+CAPA
+7
+Pine Richland
+4
+Shadyside
+8
+CAPA
+7
+Franklin Regional
+13
+Oakland Catholic
+8
+Pine Richland
+6
+Mars
+3
+Upper St. Clair
+10
+North Allegheny
+11
+Franklin Regional
+9
+Pine Richland
+5
+Oakland Catholic
+9
+North Allegheny
+11
+Shadyside
+6
+Mars
+14
+Mars
+3
+Upper St. Clair
+5
+Pine Richland
+15
+Fox Chapel
+5
+Allderdice
+8
+Franklin Regional
+4
+CAPA
+15
+Mars
+11
+Franklin Regional
+5
+Upper St. Clair
+8
+Shadyside
+12
+North Allegheny
+4
+Shadyside
+11
+Fox Chapel
+9
+Oakland Catholic
+12
+Allderdice
+6
+Pine Richland
+11
+Shadyside
+6
+Oakland Catholic
+10
+North Allegheny
+6
+CAPA
+9
+North Allegheny
+5
+Mars
+15
+North Allegheny
+9
+Fox Chapel
+7
+Allderdice
+11
+Allderdice
+8
+Shadyside
+8
+Franklin Regional
+3
+CAPA
+8
+Pine Richland
+4
+Upper St. Clair
+4
+Shadyside
+13
+Allderdice
+8
+Allderdice
+7
+Mars
+15
+North Allegheny
+0
+Franklin Regional
+7
+Oakland Catholic
+11
+Shadyside

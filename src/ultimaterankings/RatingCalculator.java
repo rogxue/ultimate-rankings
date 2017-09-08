@@ -27,6 +27,9 @@ public class RatingCalculator {
             BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file)));
             String line;
             while ((line = br.readLine()) != null) {
+                if (line.contains("###")) {
+                    continue;
+                }
                 //
                 // Parses through score data, data is formatted in this order
                 // Team 1 score
@@ -68,8 +71,8 @@ public class RatingCalculator {
         // uses, but any greater and nothing really changes, though the data I've
         // been working with only contains like 12 teams max)
         //
-        for (int j = 0; j < 40; j++) {
-            System.out.println("\tGENERATION " + (j + 1));
+        for (int j = 0; j < 80; j++) {
+//            System.out.println("\tGENERATION " + (j + 1));
             for (Team t : teamList) {
                 //
                 // OgRating holds the "old" rating as new ratings are calculated
@@ -80,7 +83,7 @@ public class RatingCalculator {
             }
             for (Team t : teamList) {
                 int gameCount = t.getGameList().size();
-                System.out.println("\t" + t.getName() + " Rating: " + t.getOgRating());
+//                System.out.println("\t" + t.getName() + " Rating: " + t.getOgRating());
                 //
                 // I'll explain logic later
                 // For now, all you need to know is that blowouts don't count
@@ -89,9 +92,9 @@ public class RatingCalculator {
                 for (Game g : t.getGameList()) {
                     if (!g.isBlowout()) {
                         t.addRating(g.getOtherTeam(t).getOgRating() + g.getRating(t));
-                        System.out.println(g.printHomeTeamFirst(t.getName()) + " " + g.getRating(t) + " " + t.getRating());
+//                        System.out.println(g.printHomeTeamFirst(t.getName()) + " " + g.getRating(t) + " " + t.getRating());
                     } else {
-                        System.out.println(g.printHomeTeamFirst(t.getName()) + " " + g.getRating(t) + " " + t.getRating() + " (BLOWOUT)");
+//                        System.out.println(g.printHomeTeamFirst(t.getName()) + " " + g.getRating(t) + " " + t.getRating() + " (BLOWOUT)");
                         gameCount--;
                     }
                 }
@@ -103,16 +106,9 @@ public class RatingCalculator {
                 } else {
                     t.setRating(t.getOgRating());
                 }
-                System.out.println("\t" + t.getName() + " New Rating: " + t.getRating());
-            }
-            Collections.sort(teamList, (Team c1, Team c2) -> Double.compare(c2.getRating(), c1.getRating()));
-            int i = 1;
-            System.out.println("\n\tFINAL RESULTS");
-            for (Team t : teamList) {
-                System.out.println(i++ + ". " + t.getName() + " " + t.printRecord() + " " + t.printPointsDiff() + " " + fmt.format(t.getRating()));
+//                System.out.println("\t" + t.getName() + " New Rating: " + t.getRating());
             }
         }
-
     }
 
     /**
@@ -143,5 +139,17 @@ public class RatingCalculator {
             }
         }
         return null;
+    }
+
+    /**
+     * Prints rankings.
+     */
+    public void printResults() {
+        Collections.sort(teamList, (Team c1, Team c2) -> Double.compare(c2.getRating(), c1.getRating()));
+        int i = 1;
+        System.out.println("\n\tFINAL RESULTS");
+        for (Team t : teamList) {
+            System.out.println(i++ + ". " + t.getName() + " " + t.printRecord() + " " + t.printPointsDiff() + " " + fmt.format(t.getRating()));
+        }
     }
 }
