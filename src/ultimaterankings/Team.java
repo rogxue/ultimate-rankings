@@ -107,6 +107,28 @@ public class Team {
         return "(" + win + "-" + (total - win) + ")";
     }
 
+    public int getWins() {
+        int win = 0;
+        int total = gameList.size();
+        for (Game g : gameList) {
+            if (g.isWinner(this)) {
+                win++;
+            }
+        }
+        return win;
+    }
+
+    public int getLosses() {
+        int win = 0;
+        int total = gameList.size();
+        for (Game g : gameList) {
+            if (g.isWinner(this)) {
+                win++;
+            }
+        }
+        return total - win;
+    }
+
     /**
      * Returns points the team has scored
      *
@@ -140,6 +162,14 @@ public class Team {
      */
     public int getPointsDiff() {
         return getPointsFor() - getPointsAgainst();
+    }
+
+    public double getAvgPointsFor() {
+        return (double) getPointsFor() / gameList.size();
+    }
+
+    public double getAvgPointsAgainst() {
+        return (double) getPointsAgainst() / gameList.size();
     }
 
     /**

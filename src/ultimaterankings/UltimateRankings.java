@@ -12,14 +12,14 @@ public class UltimateRankings {
         //
         // Get file with game data.
         //
-        System.out.print("Enter file containing game data: ");
-        String file = scan.nextLine();
-        File tweetFile = new File(file);
-        if (!tweetFile.exists()) {
-            System.out.println("File does not exist.");
-            return;
-        }
-        RatingCalculator ratingCalculator = new RatingCalculator(file);
+//        System.out.print("Enter file containing game data: ");
+//        String file = scan.nextLine();
+//        File tweetFile = new File(file);
+//        if (!tweetFile.exists()) {
+//            System.out.println("File does not exist.");
+//            return;
+//        }
+        RatingCalculator ratingCalculator = new RatingCalculator("C:/massey.txt");
         ratingCalculator.printResults();
     }
 }

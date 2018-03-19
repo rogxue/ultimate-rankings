@@ -26,11 +26,15 @@ public class Game {
         //
         // SUPER AWESOME USA ULTIMATE ALGORITHM
         //
-        double r = lose / (win - 1.0);
+//        double r = (double) lose / (win - 1.0);
+        double r = (double) lose / win * 15 / 14;
+
         if (lose == win) {
             rating = 0;
         } else {
-            rating = 125 + 475 * (Math.sin(Math.min(1.0, (1 - r) / 0.5) * 0.4 * Math.PI) / Math.sin(0.4 * Math.PI));
+            double temp = 125 + 475 * (Math.sin(Math.min(1.0, (1 - r) / 0.5) * 0.4 * Math.PI) / Math.sin(0.4 * Math.PI));
+            rating = temp * (1 + 0.003 * (team1.getGameList().size() + team2.getGameList().size()));
+//            System.out.println(rating);
         }
     }
 
@@ -159,6 +163,6 @@ public class Game {
     public boolean isBlowout() {
         int lose = Math.min(score1, score2);
         int win = Math.max(score1, score2);
-        return win > 2 * lose && (getWinner().getOgRating() - getLoser().getOgRating()) > 600;
+        return win > 2 * lose && (getWinner().getOgRating() - getLoser().getOgRating()) > 500;
     }
 }

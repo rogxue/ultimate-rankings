@@ -71,7 +71,7 @@ public class RatingCalculator {
         // uses, but any greater and nothing really changes, though the data I've
         // been working with only contains like 12 teams max)
         //
-        for (int j = 0; j < 80; j++) {
+        for (int j = 0; j < 100; j++) {
 //            System.out.println("\tGENERATION " + (j + 1));
             for (Team t : teamList) {
                 //
@@ -146,10 +146,29 @@ public class RatingCalculator {
      */
     public void printResults() {
         Collections.sort(teamList, (Team c1, Team c2) -> Double.compare(c2.getRating(), c1.getRating()));
+//        Collections.sort(teamList, (Team c1, Team c2) -> Double.compare(c2.getPointsDiff(), c1.getPointsDiff()));
+//        Collections.sort(teamList, (Team c1, Team c2) -> Double.compare(c2.getAvgPointsFor(), c1.getAvgPointsFor()));
+//        Collections.sort(teamList, (Team c1, Team c2) -> Double.compare(c1.getAvgPointsAgainst(), c2.getAvgPointsAgainst()));
+
         int i = 1;
-        System.out.println("\n\tFINAL RESULTS");
+        double max = 0;
+        System.out.println("\tFINAL RESULTS");
         for (Team t : teamList) {
-            System.out.println(i++ + ". " + t.getName() + " " + t.printRecord() + " " + t.printPointsDiff() + " " + fmt.format(t.getRating()));
+            if (max == 0) {
+                max = t.getRating();
+            }
+            if (t.getName().equalsIgnoreCase("Tennessee")) {
+//                System.out.println(t.getName());
+            }
+            if (t.getGameList().size() > 7) {
+                System.out.println(i++ + ". " + t.getName() + " " + t.printRecord() + " " + t.printPointsDiff()
+                        + " " + fmt.format(t.getRating())
+                        //                        + " " + fmt.format(t.getRating() / max * 100)
+
+                        + " " + fmt.format(t.getAvgPointsFor())
+                        + " " + fmt.format(t.getAvgPointsAgainst())
+                );
+            }
         }
     }
 }
